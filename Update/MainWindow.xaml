@@ -1,0 +1,12 @@
+﻿<Window x:Class="Update.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Update"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid OpacityMask="#FF976D6D" Background="#FF996099" Margin="-192,-72,-421,-241">
+        <ProgressBar HorizontalAlignment="Left" Height="82" Margin="235,312,0,0" VerticalAlignment="Top" Width="914"/>
+    </Grid>
+</Window>

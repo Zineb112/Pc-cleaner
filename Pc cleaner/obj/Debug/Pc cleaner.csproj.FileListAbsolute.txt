@@ -1,0 +1,23 @@
+C:\Users\Youcode\Desktop\PC Cleaner\obj\Debug\MainWindow.g.cs
+C:\Users\Youcode\Desktop\PC Cleaner\obj\Debug\App.g.cs
+C:\Users\Youcode\Desktop\PC Cleaner\obj\Debug\Pc cleaner_MarkupCompile.cache
+C:\Users\Youcode\Desktop\PC Cleaner\obj\Debug\Pc cleaner_MarkupCompile.lref
+C:\Users\Youcode\Desktop\PC Cleaner\obj\Debug\MainWindow.baml
+C:\Users\Youcode\Desktop\PC Cleaner\obj\Debug\Pc cleaner.g.resources
+C:\Users\Youcode\Desktop\PC Cleaner\obj\Debug\Pc cleaner.pdb
+C:\Users\Youcode\Desktop\PC Cleaner\obj\Debug\App.baml
+C:\Users\Youcode\Desktop\PC Cleaner\bin\Debug\Pc cleaner.exe.config
+C:\Users\Youcode\Desktop\PC Cleaner\bin\Debug\Pc cleaner.exe
+C:\Users\Youcode\Desktop\PC Cleaner\bin\Debug\Pc cleaner.pdb
+C:\Users\Youcode\Desktop\PC Cleaner\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Youcode\Desktop\PC Cleaner\bin\Debug\FontAwesome.WPF.dll
+C:\Users\Youcode\Desktop\PC Cleaner\bin\Debug\FontAwesome.WPF.xml
+C:\Users\Youcode\Desktop\PC Cleaner\obj\Debug\Pc_cleaner.Properties.Resources.resources
+C:\Users\Youcode\Desktop\PC Cleaner\obj\Debug\Pc cleaner.csproj.GenerateResource.cache
+C:\Users\Youcode\Desktop\PC Cleaner\obj\Debug\Pc cleaner.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\Desktop\PC Cleaner\obj\Debug\Pc cleaner.csproj.CopyComplete
+C:\Users\Youcode\Desktop\PC Cleaner\obj\Debug\Pc cleaner.exe
+C:\Users\Youcode\Desktop\pc cleaner2\Pc cleaner.exe.config
+C:\Users\Youcode\Desktop\pc cleaner2\Pc cleaner.exe
+C:\Users\Youcode\Desktop\pc cleaner2\Pc cleaner.pdb
+C:\Users\Youcode\Desktop\PC Cleaner\obj\Debug\Pc cleaner.csprojAssemblyReference.cache
