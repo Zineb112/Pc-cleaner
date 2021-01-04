@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-C:\Users\Youcode\Desktop\Pc-cleaner\Pc cleaner\obj\Debug\
+C:\Users\Youcode\Desktop\Pc-cleaner\Pc cleaner\obj\Release\
 Pc_cleaner
 none
 false
-DEBUG;TRACE
+TRACE
 C:\Users\Youcode\Desktop\Pc-cleaner\Pc cleaner\App.xaml
 11151548125
 
@@ -16,5 +16,5 @@ C:\Users\Youcode\Desktop\Pc-cleaner\Pc cleaner\App.xaml
 151552913210
 MainWindow.xaml;
 
-False
+True
 

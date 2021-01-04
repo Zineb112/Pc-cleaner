@@ -5,8 +5,4 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Update"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid OpacityMask="#FF976D6D" Background="#FF996099" Margin="-192,-72,-421,-241">
-        <ProgressBar HorizontalAlignment="Left" Height="82" Margin="235,312,0,0" VerticalAlignment="Top" Width="914"/>
-    </Grid>
-</Window>
+        Title="MainWindow" Height="450" Width="800"/>

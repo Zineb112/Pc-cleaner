@@ -21,3 +21,20 @@ C:\Users\Youcode\Desktop\pc cleaner2\Pc cleaner.exe.config
 C:\Users\Youcode\Desktop\pc cleaner2\Pc cleaner.exe
 C:\Users\Youcode\Desktop\pc cleaner2\Pc cleaner.pdb
 C:\Users\Youcode\Desktop\PC Cleaner\obj\Debug\Pc cleaner.csprojAssemblyReference.cache
+C:\Users\Youcode\Desktop\Pc-cleaner\pc cleaner2\Pc cleaner.exe.config
+C:\Users\Youcode\Desktop\Pc-cleaner\pc cleaner2\Pc cleaner.exe
+C:\Users\Youcode\Desktop\Pc-cleaner\pc cleaner2\Pc cleaner.pdb
+C:\Users\Youcode\Desktop\Pc-cleaner\Pc cleaner\obj\Debug\Pc cleaner.csprojAssemblyReference.cache
+C:\Users\Youcode\Desktop\Pc-cleaner\Pc cleaner\obj\Debug\MainWindow.g.cs
+C:\Users\Youcode\Desktop\Pc-cleaner\Pc cleaner\obj\Debug\App.g.cs
+C:\Users\Youcode\Desktop\Pc-cleaner\Pc cleaner\obj\Debug\Pc cleaner_MarkupCompile.cache
+C:\Users\Youcode\Desktop\Pc-cleaner\Pc cleaner\obj\Debug\Pc cleaner_MarkupCompile.lref
+C:\Users\Youcode\Desktop\Pc-cleaner\Pc cleaner\obj\Debug\App.baml
+C:\Users\Youcode\Desktop\Pc-cleaner\Pc cleaner\obj\Debug\MainWindow.baml
+C:\Users\Youcode\Desktop\Pc-cleaner\Pc cleaner\obj\Debug\Pc cleaner.g.resources
+C:\Users\Youcode\Desktop\Pc-cleaner\Pc cleaner\obj\Debug\Pc_cleaner.Properties.Resources.resources
+C:\Users\Youcode\Desktop\Pc-cleaner\Pc cleaner\obj\Debug\Pc cleaner.csproj.GenerateResource.cache
+C:\Users\Youcode\Desktop\Pc-cleaner\Pc cleaner\obj\Debug\Pc cleaner.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\Desktop\Pc-cleaner\Pc cleaner\obj\Debug\Pc cleaner.csproj.CopyComplete
+C:\Users\Youcode\Desktop\Pc-cleaner\Pc cleaner\obj\Debug\Pc cleaner.exe
+C:\Users\Youcode\Desktop\Pc-cleaner\Pc cleaner\obj\Debug\Pc cleaner.pdb
